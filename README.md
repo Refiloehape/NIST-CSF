@@ -22,7 +22,7 @@ The team found that the disruption was caused by a dustributed denial of of serv
 - Anayze network logs 
 
 ## Files in This Repository
-- NIST_CSF.pdf
+- USING THE NIST CYBERSECURITY FRAMEWORK TO RESPOND TO A SECURITY INCIIDENT.pdf
 
 ## Skills Demonstrated
 - Incident response
